@@ -72,5 +72,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 #### Further help
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+#### Final notes
+As this is my personal starter kit I left some things out you might use. From the package.json file I removed some lines of code from the "scripts"-part. If you like you can add these deleted lines:
+```
+"test": "ng test",
+"pree2e": "webdriver-manager update --standalone false --gecko false --quiet",
+"e2e": "ng e2e",
+```
+
 ## Contributors
 [lucianonooijen](https://github.com/lucianonooijen/)

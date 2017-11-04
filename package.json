@@ -7,10 +7,7 @@
     "ng": "ng",
     "start": "ng serve", 
     "build": "ng build", 
-    //"test": "ng test",
     "lint": "ng lint",
-    //"e2e": "ng e2e",
-    //"pree2e": "webdriver-manager update --standalone false --gecko false --quiet",
     "watch": "ng build --watch"
   },
   "private": true,
