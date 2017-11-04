@@ -16,17 +16,21 @@ This starter kit requires [Node.js](https://nodejs.org/) to run (duh).
 $ npm install
 ```
 ```sh
+$ bower install
+```
+```sh
 $ nodemon
 ```
 And in another terminal, run
 ```
-$ ng build --watch
+$ npm run watch
 ```
 
 
 ## Useful notes
 Just a handful of useful notes I would recommend using when you work with this starter kit.
 * Don't add any files into the ./dist folder. Always put them in the ./src folder.
+* If you are going to edit the Bower components like Bootstrap or Font Awesome, make sure to move them to the custom folder and edit the paths in .angular-cli.json
 
 
 ## To do before I would call it usable

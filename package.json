@@ -5,8 +5,8 @@
   "main": "app.js",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve", 
-    "build": "ng build", 
+    "start": "ng serve",
+    "build": "ng build",
     "lint": "ng lint",
     "watch": "ng build --watch"
   },
@@ -22,6 +22,7 @@
     "@angular/platform-browser-dynamic": "^4.2.4",
     "@angular/router": "^4.2.4",
     "body-parser": "^1.18.2",
+    "bower": "^1.8.2",
     "core-js": "^2.4.1",
     "express": "^4.16.2",
     "mongoose": "^4.13.0",

@@ -20,9 +20,16 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.css"
+        "assets/bower/bootstrap/dist/css/bootstrap.min.css",
+        "assets/bower/font-awesome/css/font-awesome.min.css",
+        "assets/custom/style.scss"
+
       ],
-      "scripts": [],
+      "scripts": [
+        "assets/bower/jquery/dist/jquery.min.js",
+        "assets/bower/popper.js/dist/popper.min.js",
+        "assets/bower/bootstrap/dist/js/bootstrap.min.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",
@@ -55,7 +62,7 @@
     }
   },
   "defaults": {
-    "styleExt": "css",
+    "styleExt": "scss",
     "component": {
     }
   }

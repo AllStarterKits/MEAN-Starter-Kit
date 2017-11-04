@@ -1,0 +1,24 @@
+{
+  "name": "mean-starter-kit",
+  "description": "MEAN Starter Kit",
+  "main": "app.js",
+  "authors": [
+    "Luciano Nooijen <info@nooijensolutions.nl>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "mean"
+  ],
+  "homepage": "https://github.com/lucianonooijen/MEAN-Starter-Kit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-beta",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
