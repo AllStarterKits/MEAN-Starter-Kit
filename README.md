@@ -45,9 +45,10 @@ Just a handful of useful notes I would recommend using when you work with this s
 * A form that you can use
 * I might add some more pages, like about us, services, contact, etc.
 * Maybe a login feature, although I am not sure yet about that
-* Some sort of backend panel would be nice with a couple of options
+* Some sort of back-end panel would be nice with a couple of options
 * I might add a blog function to the starter kit
 * Move away from Bower and use Yarn
+* Update devDependencies
 
 ## Licence
 MIT - so use it whenever, whereever and however you want it :)
