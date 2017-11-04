@@ -8,7 +8,7 @@ Version 1.0.0 (still in development)
 https://david-dm.org/lucianonooijen/MEAN-Starter-Kit/dev-status.svg)](https://david-dm.org/lucianonooijen/MEAN-Starter-Kit#info=devDependencies)
 
 ## Why this starter kit?
-I created this starter kit for all of my MEAN-stack projects to save time on setting everything up. Because of this the workflow can be different from what you're used to, for example. You can of course change the the complete workflow to suit your needs. If you are looking for a custom boiler plate with other functionalities or whatever, of a more complete starter kit, check out [Mega Boiler Plate](http://megaboilerplate.com/), it's great!
+I created this starter kit for all of my MEAN-stack projects to save time on setting everything up. Because of this the workflow can be different from what you're used to, for example. You can of course change the the complete workflow to suit your needs. If you are looking for a custom boiler plate with other functionalities or whatever, or a more complete starter kit, check out [Mega Boiler Plate](http://megaboilerplate.com/).
 
 ## Installation
 This starter kit requires [Node.js](https://nodejs.org/) to run (duh).
@@ -42,13 +42,12 @@ Just a handful of useful notes I would recommend using when you work with this s
 * Better default elements so that a header, a menu and a footer are included
 
 ## Features I am still working on (kind of a to do list for myself too)
-* A way to merge the Angular `ng serve` and the Node `nodemon` commands in one terminal window
 * A form that you can use
-* Better styling, some more elements
 * I might add some more pages, like about us, services, contact, etc.
 * Maybe a login feature, although I am not sure yet about that
 * Some sort of backend panel would be nice with a couple of options
 * I might add a blog function to the starter kit
+* Move away from Bower and use Yarn
 
 ## Licence
 MIT - so use it whenever, whereever and however you want it :)
@@ -56,7 +55,7 @@ MIT - so use it whenever, whereever and however you want it :)
 
 
 ## Readme from the Angular CLI
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5. (note: later upgraded to Angular CLI v1.5.0)
 
 #### Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
