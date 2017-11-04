@@ -47,7 +47,7 @@ Just a handful of useful notes I would recommend using when you work with this s
 * Maybe a login feature, although I am not sure yet about that
 * Some sort of back-end panel would be nice with a couple of options
 * I might add a blog function to the starter kit
-* Move away from Bower and use Yarn
+* Move away from Bower and use Yarn or add them all by hand (scss instead of css)
 * Update devDependencies
 
 ## Licence
