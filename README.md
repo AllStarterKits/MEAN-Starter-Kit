@@ -29,8 +29,9 @@ Just a handful of useful notes I would recommend using when you work with this s
 * Don't add any files into the ./dist folder. Always put them in the ./src folder.
 
 ## Features I am still working on (kind of a to do list for myself too)
-* A form that you can use
 * A way to merge the Angular `ng serve` and the Node `nodemon` commands in one terminal window
+* Add browser sync for live styling updates
+* A form that you can use
 * Better styling, some more elements
 * I might add some more pages, like about us, services, contact, etc.
 * Maybe a login feature, although I am not sure yet about that
