@@ -16,11 +16,11 @@ This starter kit requires [Node.js](https://nodejs.org/) to run (duh).
 $ npm install
 ```
 ```sh
-$ npm nodemon
+$ nodemon
 ```
 And in another terminal, run
 ```
-$ ng serve
+$ ng build --watch
 ```
 
 
@@ -28,19 +28,28 @@ $ ng serve
 Just a handful of useful notes I would recommend using when you work with this starter kit.
 * Don't add any files into the ./dist folder. Always put them in the ./src folder.
 
+
+## To do before I would call it usable
+* Add Mongoose/MongoDB integration
+* Add Angular service for loading through the API
+* Integrate scss for the styling
+* Add browser sync for live styling updates
+* Run everything in 1 command using npm concurrently
+* Better default elements so that a header, a menu and a footer are included
+
 ## Features I am still working on (kind of a to do list for myself too)
 * A way to merge the Angular `ng serve` and the Node `nodemon` commands in one terminal window
-* Add browser sync for live styling updates
 * A form that you can use
 * Better styling, some more elements
 * I might add some more pages, like about us, services, contact, etc.
 * Maybe a login feature, although I am not sure yet about that
 * Some sort of backend panel would be nice with a couple of options
-* Mongoose integration
 * I might add a blog function to the starter kit
 
 ## Licence
 MIT - so use it whenever, whereever and however you want it :)
+
+
 
 ## Readme from the Angular CLI
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
