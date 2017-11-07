@@ -67,6 +67,12 @@ Run `ng generate component component-name` to generate a new component. You can 
 #### Build
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
+#### Ports
+For development I integrated the command `npm run dev`, that will start Nodemon, Angular build (watches files and then builds to ./dist) and Gulp for browser sync, listening for changes in the ./dist folder. For this scripts there are some ports set as default. The browser sync starts automatically but if you want to access the Nodemon or Angular watch urls, these are the default ports on localhost:
+* Nodemon: port 3000
+* Angular: port 4200
+* Browser sync: port 5000
+
 #### Running unit tests
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
