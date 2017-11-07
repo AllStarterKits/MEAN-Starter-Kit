@@ -161,7 +161,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, "", ""]);
+exports.push([module.i, "body {\n  background-color: #ddd; }\n\n.mainfooter {\n  padding: 20px 0;\n  background-color: #eee; }\n", ""]);
 
 // exports
 
