@@ -2,10 +2,10 @@
 _Made by Luciano Nooijen_
 Version 1.0.0 (still in development)
 
-[![Build Status](https://travis-ci.org/lucianonooijen/MEAN-Starter-Kit.svg?branch=master)](https://travis-ci.org/lucianonooijen/MEAN-Starter-Kit) 
-[![Dependency Status](https://david-dm.org/lucianonooijen/MEAN-Starter-Kit.svg)](https://david-dm.org/lucianonooijen/MEAN-Starter-Kit)
+[![Build Status](https://travis-ci.org/AllStarterKits/MEAN-Starter-Kit.svg?branch=master)](https://travis-ci.org/AllStarterKits/MEAN-Starter-Kit) 
+[![Dependency Status](https://david-dm.org/AllStarterKits/MEAN-Starter-Kit.svg)](https://david-dm.org/AllStarterKits/MEAN-Starter-Kit)
 [![devDependency Status](
-https://david-dm.org/lucianonooijen/MEAN-Starter-Kit/dev-status.svg)](https://david-dm.org/lucianonooijen/MEAN-Starter-Kit#info=devDependencies)
+https://david-dm.org/AllStarterKits/MEAN-Starter-Kit/dev-status.svg)](https://david-dm.org/AllStarterKits/MEAN-Starter-Kit#info=devDependencies)
 
 ## Why this starter kit?
 I created this starter kit for all of my MEAN-stack projects to save time on setting everything up. Because of this the workflow can be different from what you're used to, for example. You can of course change the the complete workflow to suit your needs. If you are looking for a custom boiler plate with other functionalities or whatever, or a more complete starter kit, check out [Mega Boiler Plate](http://megaboilerplate.com/).
